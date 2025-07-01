@@ -48,10 +48,6 @@ O DoeTech está hospedado no serviço [Azure](https://azure.microsoft.com/pt-br/
 
 Para acessar o DoeTech, clique [aqui](https://ambitious-desert-0ad52340f.6.azurestaticapps.net).
 
-##### Acesso direto ao backend
-
-O backend pode ser acessado diretamente, via Postman, utilizando a seguinte rota: `https://doetech-hybhf6b8abf3bjds.brazilsouth-01.azurewebsites.net`. Para isso, utilize o contrato disponível ao importar, no Postman, [este](src/DoeTech/Postman.json) arquivo (`src/DoeTech/Postman.json`).
-
 ### Execução local
 
 #### Executar a aplicação backend localmente
