@@ -120,6 +120,6 @@ Figura 4: Diagrama da arquitetura da aplicação, evidenciando os principais com
 
 ## Hospedagem
 
-As aplicações web backend e frontend estão hospedadas ns serviço Azure, da Microsoft. Para acessar a aplicação frontend, clique [aqui](https://ambitious-desert-0ad52340f.6.azurestaticapps.net). Para acessar diretamente o backend, utilize a rota `https://doetech-hybhf6b8abf3bjds.brazilsouth-01.azurewebsites.net`. Para facilitar, utilize o [arquivo](../src/DoeTech/Postman.json) `Postman.json`, disponível no diretório da aplicação backend, como contrato.
+As aplicações web backend e frontend estão hospedadas ns serviço Azure, da Microsoft. Para acessar a aplicação frontend, clique [aqui](https://ambitious-desert-0ad52340f.6.azurestaticapps.net). Para testes locais, utilize o [arquivo](../src/DoeTech/Postman.json) `Postman.json`, disponível no diretório da aplicação backend, como contrato.
 
 </div>
