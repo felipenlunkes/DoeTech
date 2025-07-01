@@ -25,9 +25,9 @@ O **DoeTech** é uma plataforma que visa criar uma interface entre empresas e pe
 ## Integrantes
 
 * Diovane Marcelino Azevedo (**desenvolvimento**)
-* Felipe Miguel Nery Lunkes (**Scrum Master, arquiteto de software**)
-* João Paulo Fernandes Salviano (**Project Owner**)
-* Verônica Hoffmann Fernandes Adler (**desenvolvimento**)
+* Felipe Miguel Nery Lunkes (**Scrum Master, arquiteto de software, desenvolvimento**)
+* João Paulo Fernandes Salviano (**Project Owner, desenvolvimento**)
+* Verônica Hoffmann Fernandes Adler (**UX lead, desenvolvimento**)
 
 <hr>
 
