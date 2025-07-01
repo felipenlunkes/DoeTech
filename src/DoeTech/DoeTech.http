@@ -1,0 +1,6 @@
+@DoeTech_HostAddress = http://localhost:8080
+
+GET {{DoeTech_HostAddress}}/rest/v1/health
+Accept: application/json
+
+###

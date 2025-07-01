@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: admin12345
+      MYSQL_DATABASE: doetech
+      MYSQL_PASSWORD: admin12345
+    volumes:
+      - mysql_data:/var/lib/mysql
+    restart: unless-stopped
+
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite
+    ports:
+      - "10000:10000"
+      - "10001:10001"
+      - "10002:10002"
+    volumes:
+      - azurite_data:/data
+    command: "azurite-blob --blobHost 0.0.0.0 --location /data"
+    restart: unless-stopped
+
+volumes:
+  mysql_data:
+  azurite_data:

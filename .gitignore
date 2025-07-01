@@ -1,0 +1,36 @@
+# Diretório do Rider e outras IDEs
+
+src/DoeTech/.idea/
+src/DoeTech/*.user
+src/DoeTech/*.user
+src/DoeTech/*.suo
+src/DoeTech/*.csproj.user
+
+# Build e Cache
+src/DoeTech/bin/
+src/DoeTech/obj/
+src/DoeTech/out/
+src/DoeTech/*.log
+src/DoeTech/logs/
+
+# Configurações Locais
+src/DoeTech/appsettings.Local.json
+src/DoeTech/appsettings.Secrets.json
+src/DoeTech/secrets.json
+
+# Node.js
+src/DoeTech/node_modules/
+src/DoeTech/npm-debug.log
+src/DoeTech/yarn-error.log
+
+# Arquivos temporários
+src/oeTech/*.tmp
+src/DoeTech/*.bak
+
+# Migrations (opcional, comente se deseja versionar)
+# DoeTech/Migrations/
+
+# Arquivo de lock do NuGet (opcional, comente se quiser versionar)
+src/DoeTech/project.assets.json
+
+src/DoeTech-frontend/node_modules
